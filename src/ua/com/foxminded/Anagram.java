@@ -34,5 +34,5 @@ public class Anagram {
     	    outputArr += reverseWord(item) + " ";
         }
         return outputArr;
-        }
+    }
 }

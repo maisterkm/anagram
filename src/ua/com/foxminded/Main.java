@@ -10,5 +10,4 @@ public class Main {
         String inputString = scanner.nextLine();
         System.out.println(inputString + " => " + anagram.makeAnagram(inputString));
     }
-
 }
